@@ -1,7 +1,5 @@
-# Sara Kim's personal site
+# Hey! My name is Sara.
 
-This repository publishes [saykig.github.io](https://saykig.github.io/) through GitHub Pages. Pages serves the generated site from `docs/` on `main`. The Next.js source is maintained separately in `saykig/sarakim23.vercel.app`; `docs/` is its static export, so the generated files should be updated together rather than edited individually.
+You've discovered the building blocks to my personal website. While you're here, here's a small piece of wisdom I'd like to share that'll be [worthwhile](https://www.youtube.com/watch?v=KmDYXaaT9sA&t=1122s).
 
-The site in `docs/sara-poet/` redirects the former poetry address to [Selected Poems](https://sarakim23.vercel.app/). Keep `docs/.nojekyll` so GitHub Pages serves Next.js's `_next/` assets.
-
-To publish a source update, build the source project, sync its `out/` directory into this repository's `docs/`, keep `.nojekyll`, then commit and push `main`. The source project's README has the build command.
+And while I've still got your attention, I highly recommend you check out this cool site that does [visual essays](https://pudding.cool/2021/07/rickrolling/).

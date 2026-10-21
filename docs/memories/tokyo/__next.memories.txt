@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[56454,["/_next/static/chunks/cc5639b053815f24.js","/_next/static/chunks/70e0be5e9dbe2d66.js"],"default"]
 3:I[10158,["/_next/static/chunks/cc5639b053815f24.js","/_next/static/chunks/70e0be5e9dbe2d66.js"],"default"]
-0:{"buildId":"uTOOb-CkW2P2DD890EmZE","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"gJJQah-zeDwTY6R_Z_-fa","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
